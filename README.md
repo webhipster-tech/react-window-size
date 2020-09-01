@@ -2,7 +2,9 @@
 
 > React hooks for window size.
 
-[![NPM](https://img.shields.io/npm/v/@webhipster-tech/window-size.svg)](https://www.npmjs.com/package/@webhipster-tech/window-size) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.com/ykukharskyi/window-size.svg?branch=master)](https://travis-ci.com/ykukharskyi/window-size)
+[![NPM](https://img.shields.io/npm/v/@webhipster-tech/window-size.svg)](https://www.npmjs.com/package/@webhipster-tech/window-size)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
