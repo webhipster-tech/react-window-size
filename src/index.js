@@ -1,6 +1,3 @@
-import React from 'react'
-import styles from './styles.module.css'
-
-export const ExampleComponent = ({ text }) => {
-  return <div className={styles.test}>Example Component: {text}</div>
-}
+export { default as useWindowSize } from "./hooks/useWindowSize/useWindowSize";
+export { default as useWindowHeight } from "./hooks/useWindowHeight/useWindowHeight";
+export { default as useWindowWidth } from "./hooks/useWindowWidth/useWindowWidth";
