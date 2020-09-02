@@ -1,7 +1,7 @@
 {
   "name": "@webhipster-tech/react-window-size",
-  "version": "1.0.0",
-  "description": "React hooks for window size.",
+  "version": "1.0.1",
+  "description": "Library to work with browser window size.",
   "author": "ykukharskyi",
   "license": "MIT",
   "repository": "https://github.com/ykukharskyi/react-window-size",
@@ -20,7 +20,7 @@
     "test:lint": "eslint .",
     "test:unit": "cross-env CI=1 react-scripts test --env=jsdom --passWithNoTests",
     "test:watch": "react-scripts test --env=jsdom",
-    "predeploy": "cd example && yarn install && yarn run build"
+    "predeploy": "cd hooks-example && yarn install && yarn run build"
   },
   "peerDependencies": {
     "react": "^16.0.0"
