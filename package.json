@@ -1,15 +1,15 @@
 {
-  "name": "@webhipster-tech/window-size",
-  "version": "1.0.3",
+  "name": "@webhipster-tech/react-window-size",
+  "version": "1.0.0",
   "description": "React hooks for window size.",
   "author": "ykukharskyi",
   "license": "MIT",
-  "repository": "window-size",
+  "repository": "https://github.com/ykukharskyi/react-window-size",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
