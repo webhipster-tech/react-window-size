@@ -51,7 +51,7 @@ const WindowWrapper = styled.div`
   widows: ${({ windowWidth }) => windowWidth}px;
 `;
 
-const App = () => {
+const Example = () => {
   const { windowHeight, windowWidth } = useWindowSize();
   return (
     <WindowWrapper
@@ -60,11 +60,9 @@ const App = () => {
     />
   );
 }
-
-export default App;
 ```
 
-> Example of usage with styled component available by
+> Example of usage with styled-components available by
 > [link](https://github.com/ykukharskyi/react-window-size/tree/master/hooks-example)
 
 #### `useWindowHeight` hook
